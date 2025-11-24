@@ -7,4 +7,22 @@ wheels/
 *.egg-info
 
 # Virtual environments
+.ipynb_checkpoints
 .venv
+catboost_info
+2025 Sem A Choosing a Project Form.docx
+DPP.docx
+Elegant Bachelor Thesis _ by Slidesgo.pptx
+Elegant Black & White Thesis Defense by Slidesgo - Copy.pptx
+Elegant Black & White Thesis Defense by Slidesgo.pptx
+Minimal Gradient by Slidesgo.pptx
+Presentation.pdf
+Presentation.pptx
+Project-Copy1.ipynb
+response.md
+.ipynb_checkpoints/Project-checkpoint.ipynb
+.ipynb_checkpoints/Project-Copy1-checkpoint.ipynb
+Medical Appointments No-Show.zip
+Medical Appointments No-Show
+main.py
+pyproject.toml
